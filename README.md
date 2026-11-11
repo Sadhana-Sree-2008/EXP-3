@@ -40,21 +40,20 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-<img width="1920" height="1080" alt="Screenshot 2026-10-22 205224" src="https://github.com/user-attachments/assets/c7741734-5bb5-4790-a2f2-617b1a0044a4" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-21 150904" src="https://github.com/user-attachments/assets/46b58713-1c80-4ecb-9450-f12a9adb00d6" />
+<img width="1667" height="796" alt="Screenshot 2026-11-11 203616" src="https://github.com/user-attachments/assets/8fcf9503-3110-4e8c-9e73-c0acc43ad14b" />
 
 
 Tabulation:1
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/a007f723-af22-401e-92c2-62e3f4693fbc" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/26e391fd-709c-4837-ba84-31109b6bbde8" />
 
 	
 Cross connection: CIRCUIT DIAGRAM:
-<img width="1920" height="1080" alt="Screenshot 2026-10-21 151843" src="https://github.com/user-attachments/assets/dccc76b7-8ec7-4a32-82ec-cb515bc9eddd" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-21 152526" src="https://github.com/user-attachments/assets/9defa468-a6ca-477c-afb8-f87198f01451" />
+<img width="1472" height="765" alt="Screenshot 2026-11-11 203929" src="https://github.com/user-attachments/assets/ef1c1148-d130-4616-9150-eae56feccb5c" />
 
 
 Tabulation:2
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a7a7401-174f-483a-93c6-9b46c00bfddf" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b5b21732-97e9-444f-ad72-04d8999b5405" />
+
 
 
 RESULT:
